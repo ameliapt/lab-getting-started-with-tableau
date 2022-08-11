@@ -1,0 +1,4 @@
+### Lab 4
+
+## URL to Public Tableau: 
+https://public.tableau.com/app/profile/amelia3703/viz/Intro_to_Tableau_16602216284360/Numberofcustomersbygender?publish=yes
